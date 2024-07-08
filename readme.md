@@ -1,6 +1,6 @@
 ## Express Backend Boilerplate
 
-- This repository serves as a boilerplate for developing a robust backend. You can speed up your backend development by using this repository.
+-> This repository serves as a boilerplate for developing a robust backend. You can speed up your backend development by using this repository.
 
 ### Guidelines for use
 
