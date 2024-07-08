@@ -9,7 +9,7 @@
 - Alternatively, you can clone the project using the following command: 
 
 ```javascript
-git clone https:https://github.com/mehedihasan5675/backend-boilerplate_mycustomed.git
+git clone https://github.com/mehedihasan5675/backend-boilerplate_mycustomed.git
 ```
 
 - After downloading or cloning the project, open it in VS Code. Open the terminal and run the following command:
